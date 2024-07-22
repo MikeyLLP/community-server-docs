@@ -47,3 +47,6 @@ den [Regeln](rules.md) erf√ºllen, doch folgende Mods wurden durch das Team gepr√
 - Xaero's Minimap ([Modrinth](https://modrinth.com/mod/xaeros-minimap), [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap))
 - Xaero's WorldMap ([Modrinth](https://modrinth.com/mod/xaeros-world-map), [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map))
 - Zoomify ([Modrinth](https://modrinth.com/mod/zoomify), [CurseForge](https://www.curseforge.com/minecraft/mc-mods/zoomify))
+- Gamma Utils (Fullbright) ([Modrinth](https://modrinth.com/mod/gamma-utils/versions), [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gamma-utils))
+- NoFog ([Modrinth](https://modrinth.com/mod/no_fog), [CurseForge](https://www.curseforge.com/minecraft/mc-mods/nofog))
+- Pick Up Notifier ([Modrinth](https://modrinth.com/mod/pick-up-notifier), [CurseForge](https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier))
