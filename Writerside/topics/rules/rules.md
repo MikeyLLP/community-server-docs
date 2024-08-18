@@ -80,6 +80,12 @@ mit einem Ausschluss vom Server rechnen. Eine detaillierte Auflistung dieser fin
 6. **Moderatoren und Admins haben das letzte Wort**, auch wenn dies den Regeln widerspricht. Wir
    möchten keine langen Diskussionen. Wenn ihr darauf hingewiesen werdet dies oder jenes zu
    unterlassen, lasst es einfach, anstatt zu diskutieren. Das wird dann schon seine Gründe haben.
+   
+7. **Die Verwendung eines Soundboards ist untersagt,** Im VoiceChat solltet ihr keine Musik oder SoundBoards abspielen.
+   Das dient dem Schutz der Streamer, 
+   damit ihr Stream nicht gesperrt und das Video nicht unbrauchbar wird. Außerdem soll es verhindern, 
+   dass sich andere Spieler belästigt fühlen. Wenn ihr euch nicht an die Regeln haltet, müsst ihr mit einem
+   dauerhaften Ausschluss vom VoiceChat, Chat oder sogar vom Server rechnen.
 
 </if>
 
@@ -149,6 +155,11 @@ A detailed list of these rules can be found below.
    We don’t want long discussions.
    If you’re asked to stop doing something, simply stop instead of arguing. 
    There is likely a reason for it.
+   
+7.  **The use of soundboards is prohibited.**
+   In the voice chat, you should not play music or soundboards. This is to protect the streamers, ensuring that their
+   streams are not suspended and their videos remain usable. Additionally, it helps prevent other players from feeling
+   disturbed. If you do not follow these rules, you may face a permanent ban from the voice chat, the chat, or even the server.
 
 </if>
 
